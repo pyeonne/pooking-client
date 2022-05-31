@@ -85,11 +85,13 @@
 .date {
   position: absolute;
   top: 50px;
+  z-index: 2;
 }
 
 .options {
   position: absolute;
   top: 50px;
+  z-index: 2;
   background-color: #fff;
   color: gray;
   border-radius: 5px;
